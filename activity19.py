@@ -7,5 +7,5 @@ while con == True:
 
     if name.lower() == "stop":
         print("The lop has been terminated")
-
+        
         breakcon = False
