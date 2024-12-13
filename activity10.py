@@ -1,5 +1,5 @@
 name = input("Enter your name: ")
-stud = input("Are you a current student of DLL? [Y/N]:")
+stud = input("Are you a current student of DLL? [Yes/No]:")
 
 if stud.lower() == "y":
     yrlev = input("What year are you currently enrolled? \nF - Freshmen \nS - Sophomore \nJ - Junior \nR - Senior")
@@ -14,4 +14,4 @@ if stud.lower() == "y":
         print(f"Hi {name}, Senior, Welcome to DLL!")
 
 else:
-    print(f"Hi {name}, Welcome to DLL!")
+    print(f"Hi {name}, Welcome to DLL!)
