@@ -1,4 +1,5 @@
 
+
 column = int(input("Enter a number of Column: "))
 
 for r in range (1,11):
