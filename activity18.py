@@ -1,5 +1,4 @@
 
-
 nt = eval(input("Enter a number of triangle(s):  "))
 
 for r in range (1,5):
