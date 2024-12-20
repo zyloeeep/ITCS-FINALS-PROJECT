@@ -1,6 +1,4 @@
 
-
-
 def user_acc():
     name = input("\nEnter your name: ")
     print(f"\nGood day, Ma'am/Sir {name}! Welcome to Rvn Bank.")
