@@ -1,3 +1,5 @@
+
+
 password = input("Enter your password: ")
 
 if password == "misskonasya":
