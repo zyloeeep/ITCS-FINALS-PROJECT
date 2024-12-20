@@ -1,3 +1,5 @@
+
+
 fullname = input("Name:            ")
 gender = input("Gender:          ")
 DoB = input("Date of Birth:   ")
