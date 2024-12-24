@@ -1,3 +1,5 @@
+
+
 name = input("Enter your name: ")
 stud = input("Are you a current student of DLL? [Yes/No]:")
 
