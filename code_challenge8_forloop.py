@@ -1,4 +1,6 @@
 
+
+
 totalnum = 0
 
 for bilang in range(1,11):
