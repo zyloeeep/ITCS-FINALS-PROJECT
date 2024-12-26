@@ -1,6 +1,5 @@
 
 
-
 factorial = 0
 fact = eval(input("Enter a number: "))
 
